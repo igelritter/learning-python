@@ -35,5 +35,5 @@ while can < targ:
     can = can+1
 
 print "Accumlator has found the log sum of %r \nfor the sum of all the primes before %r." %(acc,targ)
-print "\nThe ratio is %r" %(acc/targe)
+print "\nThe ratio is %r" %(acc/targe) 
 
