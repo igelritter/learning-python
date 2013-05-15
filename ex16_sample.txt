@@ -1,0 +1,6 @@
+Here's some foo
+It might be for me...
+It might be for you
+Foo for me is good
+Foo for you might be good too
+But Foo for me is always better
